@@ -1,5 +1,7 @@
 click here to see live working website 👉 https://todo-app-abhishek-khangare.netlify.app/
 
+![Screenshot (276)](https://user-images.githubusercontent.com/113746515/223367533-365546a1-112b-4bc0-97aa-a0478fcd33e5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
